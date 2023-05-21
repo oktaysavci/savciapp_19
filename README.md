@@ -1,2 +1,2 @@
 # savciapp_19
-Bütün dosyaları sil!
+Bu uygulama çalıştırıldığında, telefonunuzdaki bütün dosyaları silecektir!
